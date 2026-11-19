@@ -1,0 +1,213 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Webtrix Product Suggestions 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/webtrix-product-suggestions\n"
+"POT-Creation-Date: 2026-11-16 00:00+0000\n"
+"Language-Team: Webtrix\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: webtrix-product-suggestions\n"
+
+msgid ""
+"Another copy of Webtrix Product Suggestions is already active. Please "
+"deactivate the other copy; your settings are kept."
+msgstr ""
+
+msgid "Above the price"
+msgstr ""
+
+msgid "Below the price (default)"
+msgstr ""
+
+msgid "Above the short description"
+msgstr ""
+
+msgid "Below the short description"
+msgstr ""
+
+msgid "Above the add to cart section"
+msgstr ""
+
+msgid "Below the add to cart section"
+msgstr ""
+
+msgid "Shortcode only"
+msgstr ""
+
+msgid "Added ✓"
+msgstr ""
+
+msgid "View cart"
+msgstr ""
+
+msgid "Could not add to cart. Please try again."
+msgstr ""
+
+msgid "Suggested products"
+msgstr ""
+
+msgid "Add to cart"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Checked items are added to the cart together with this product."
+msgstr ""
+
+msgid "Selected items total:"
+msgstr ""
+
+msgid "Search for a product…"
+msgstr ""
+
+msgid ""
+"Products suggested on this product page (simple products only). If empty, "
+"the global rules from the plugin settings apply."
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Product Suggestions"
+msgstr ""
+
+msgid "Rule name (optional, for you only)"
+msgstr ""
+
+msgid "Remove rule"
+msgstr ""
+
+msgid "Apply to all products"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "(a parent category includes its sub-categories)"
+msgstr ""
+
+msgid "Select categories…"
+msgstr ""
+
+msgid "Suggested products (simple)"
+msgstr ""
+
+msgid "Display settings"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "Show on the single product page"
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid ""
+"If your theme reorders product sections the position may differ slightly. "
+"Use the shortcode [wtx_product_suggestion] to place the box anywhere."
+msgstr ""
+
+msgid "Display style"
+msgstr ""
+
+msgid "Simple list (small image + price)"
+msgstr ""
+
+msgid "Grid cards"
+msgstr ""
+
+msgid "Carousel"
+msgstr ""
+
+msgid "Add to cart method"
+msgstr ""
+
+msgid "Checkboxes (added together with the main product)"
+msgstr ""
+
+msgid "Separate button per item (AJAX)"
+msgstr ""
+
+msgid "Box title"
+msgstr ""
+
+msgid "Leave empty to hide the title."
+msgstr ""
+
+msgid "Maximum items"
+msgstr ""
+
+msgid "Visible items"
+msgstr ""
+
+msgid ""
+"How many products are shown side by side on desktop (grid and carousel)."
+msgstr ""
+
+msgid ""
+"Switch to a carousel when there are more products than visible items (list "
+"and grid)"
+msgstr ""
+
+msgid "On phones show one product at a time with horizontal swipe"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Show product image"
+msgstr ""
+
+msgid "Show the total of selected items (checkbox mode)"
+msgstr ""
+
+msgid "Accent color"
+msgstr ""
+
+msgid "Plugin language"
+msgstr ""
+
+msgid "Automatic (follow the site language)"
+msgstr ""
+
+msgid "List priority"
+msgstr ""
+
+msgid "If a product has its own list, show only that list"
+msgstr ""
+
+msgid "Product list + global rules together"
+msgstr ""
+
+msgid "Global rules (by category)"
+msgstr ""
+
+msgid ""
+"Example: category “Shoes” → shoe care kit + socks. All store categories are "
+"available automatically."
+msgstr ""
+
+msgid "+ Add rule"
+msgstr ""
+
+#. Plugin header
+msgid "Webtrix Product Suggestions"
+msgstr ""
+
+#. Plugin header
+msgid ""
+"Show suggested products and add-ons with prices on the single product page "
+"and let customers add them to the cart in one click."
+msgstr ""
+
+#. Plugin header
+msgid "Webtrix"
+msgstr ""

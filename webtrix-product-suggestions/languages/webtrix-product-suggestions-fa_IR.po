@@ -1,0 +1,229 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Webtrix Product Suggestions 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/webtrix-product-suggestions\n"
+"PO-Revision-Date: 2026-11-10 00:00+0000\n"
+"Last-Translator: Webtrix\n"
+"Language-Team: Webtrix\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Domain: webtrix-product-suggestions\n"
+
+msgid ""
+"Another copy of Webtrix Product Suggestions is already active. Please "
+"deactivate the other copy; your settings are kept."
+msgstr ""
+"نسخهٔ دیگری از «محصولات پیشنهادی وبتریکس» از قبل فعال است. نسخهٔ دیگر را "
+"غیرفعال کنید؛ تنظیمات شما حفظ می‌شود."
+
+msgid "Above the price"
+msgstr "بالای قیمت"
+
+msgid "Below the price (default)"
+msgstr "پایین قیمت (پیش‌فرض)"
+
+msgid "Above the short description"
+msgstr "بالای توضیحات کوتاه"
+
+msgid "Below the short description"
+msgstr "پایین توضیحات کوتاه"
+
+msgid "Above the add to cart section"
+msgstr "بالای بخش افزودن به سبد خرید"
+
+msgid "Below the add to cart section"
+msgstr "پایین بخش افزودن به سبد خرید"
+
+msgid "Shortcode only"
+msgstr "فقط شورت‌کد"
+
+msgid "Added ✓"
+msgstr "اضافه شد ✓"
+
+msgid "View cart"
+msgstr "مشاهده سبد خرید"
+
+msgid "Could not add to cart. Please try again."
+msgstr "خطا در افزودن به سبد. لطفاً دوباره تلاش کنید."
+
+msgid "Suggested products"
+msgstr "محصولات پیشنهادی"
+
+msgid "Add to cart"
+msgstr "افزودن به سبد"
+
+msgid "Previous"
+msgstr "قبلی"
+
+msgid "Next"
+msgstr "بعدی"
+
+msgid "Checked items are added to the cart together with this product."
+msgstr "با افزودن محصول اصلی به سبد، موارد تیک‌خورده هم اضافه می‌شوند."
+
+msgid "Selected items total:"
+msgstr "مجموع موارد انتخابی:"
+
+msgid "Search for a product…"
+msgstr "جستجو برای یک محصول…"
+
+msgid ""
+"Products suggested on this product page (simple products only). If empty, "
+"the global rules from the plugin settings apply."
+msgstr ""
+"محصولاتی که در صفحهٔ همین محصول پیشنهاد می‌شوند (فقط محصولات ساده). اگر خالی"
+" بماند، قوانین سراسری در تنظیمات افزونه اعمال می‌شود."
+
+msgid "Settings"
+msgstr "تنظیمات"
+
+msgid "Product Suggestions"
+msgstr "محصولات پیشنهادی"
+
+msgid "Rule name (optional, for you only)"
+msgstr "عنوان قانون (اختیاری، فقط برای خودتان)"
+
+msgid "Remove rule"
+msgstr "حذف قانون"
+
+msgid "Apply to all products"
+msgstr "اعمال روی همهٔ محصولات"
+
+msgid "Categories"
+msgstr "دسته‌بندی‌ها"
+
+msgid "(a parent category includes its sub-categories)"
+msgstr "(انتخاب دستهٔ مادر، زیردسته‌ها را هم شامل می‌شود)"
+
+msgid "Select categories…"
+msgstr "انتخاب دسته‌بندی…"
+
+msgid "Suggested products (simple)"
+msgstr "محصولات پیشنهادی (ساده)"
+
+msgid "Display settings"
+msgstr "تنظیمات نمایش"
+
+msgid "Enable"
+msgstr "فعال‌سازی"
+
+msgid "Show on the single product page"
+msgstr "نمایش در صفحهٔ تکی محصول"
+
+msgid "Position"
+msgstr "جایگاه"
+
+msgid ""
+"If your theme reorders product sections the position may differ slightly. "
+"Use the shortcode [wtx_product_suggestion] to place the box anywhere."
+msgstr ""
+"اگر قالب سایت ترتیب بخش‌های محصول را تغییر داده باشد، ممکن است جایگاه کمی "
+"متفاوت باشد. برای قرار دادن باکس در هر جای دلخواه از شورت‌کد "
+"[wtx_product_suggestion] استفاده کنید."
+
+msgid "Display style"
+msgstr "مدل نمایش"
+
+msgid "Simple list (small image + price)"
+msgstr "لیست ساده (تصویر کوچک + قیمت)"
+
+msgid "Grid cards"
+msgstr "کارت‌های شبکه‌ای"
+
+msgid "Carousel"
+msgstr "اسلایدر"
+
+msgid "Add to cart method"
+msgstr "روش افزودن به سبد"
+
+msgid "Checkboxes (added together with the main product)"
+msgstr "چک‌باکس (همراه محصول اصلی اضافه می‌شود)"
+
+msgid "Separate button per item (AJAX)"
+msgstr "دکمهٔ جدا برای هر آیتم (AJAX)"
+
+msgid "Box title"
+msgstr "عنوان باکس"
+
+msgid "Leave empty to hide the title."
+msgstr "خالی بگذارید تا عنوان نمایش داده نشود."
+
+msgid "Maximum items"
+msgstr "حداکثر تعداد"
+
+msgid "Visible items"
+msgstr "تعداد محصولات قابل‌مشاهده"
+
+msgid ""
+"How many products are shown side by side on desktop (grid and carousel)."
+msgstr "چند محصول در دسکتاپ کنار هم نمایش داده شوند (شبکه‌ای و اسلایدر)."
+
+msgid ""
+"Switch to a carousel when there are more products than visible items (list "
+"and grid)"
+msgstr ""
+"اگر تعداد محصولات از تعداد قابل‌مشاهده بیشتر شد، خودکار اسلایدر شود (لیست و "
+"شبکه‌ای)"
+
+msgid "On phones show one product at a time with horizontal swipe"
+msgstr "در گوشی هر بار یک محصول نمایش داده شود و بقیه با اسکرول افقی"
+
+msgid "Options"
+msgstr "گزینه‌ها"
+
+msgid "Show product image"
+msgstr "نمایش تصویر محصول"
+
+msgid "Show the total of selected items (checkbox mode)"
+msgstr "نمایش مجموع قیمت موارد انتخاب‌شده (حالت چک‌باکس)"
+
+msgid "Accent color"
+msgstr "رنگ تأکیدی"
+
+msgid "Plugin language"
+msgstr "زبان افزونه"
+
+msgid "Automatic (follow the site language)"
+msgstr "خودکار (مطابق زبان سایت)"
+
+msgid "List priority"
+msgstr "اولویت لیست‌ها"
+
+msgid "If a product has its own list, show only that list"
+msgstr "اگر محصول لیست اختصاصی دارد، فقط همان نمایش داده شود"
+
+msgid "Product list + global rules together"
+msgstr "لیست اختصاصی محصول + قوانین سراسری با هم"
+
+msgid "Global rules (by category)"
+msgstr "قوانین سراسری (بر اساس دسته‌بندی)"
+
+msgid ""
+"Example: category “Shoes” → shoe care kit + socks. All store categories are "
+"available automatically."
+msgstr ""
+"مثال: دستهٔ «کفش» ← کیت مراقبت از کفش + جوراب. همهٔ دسته‌بندی‌های فروشگاه "
+"به‌صورت خودکار در دسترس هستند."
+
+msgid "+ Add rule"
+msgstr "+ افزودن قانون"
+
+#. Plugin header
+msgid "Webtrix Product Suggestions"
+msgstr "محصولات پیشنهادی وبتریکس"
+
+#. Plugin header
+msgid ""
+"Show suggested products and add-ons with prices on the single product page "
+"and let customers add them to the cart in one click."
+msgstr ""
+"نمایش محصولات پیشنهادی و مکمل‌ها همراه با قیمت در صفحهٔ تکی محصول و افزودن "
+"سریع آن‌ها به سبد خرید."
+
+#. Plugin header
+msgid "Webtrix"
+msgstr "وبتریکس"
